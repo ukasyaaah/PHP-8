@@ -1,3 +1,3 @@
 <?php
 
-strlen([]);
+// strlen([]); // Error
